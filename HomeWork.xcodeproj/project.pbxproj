@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F584E422B6A2BD30028056C /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F584E412B6A2BD30028056C /* SecondViewController.swift */; };
 		9F79623A2B53501F00474C43 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F7962392B53501F00474C43 /* AppDelegate.swift */; };
 		9F79623C2B53501F00474C43 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F79623B2B53501F00474C43 /* SceneDelegate.swift */; };
 		9F79623E2B53501F00474C43 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F79623D2B53501F00474C43 /* ViewController.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F584E412B6A2BD30028056C /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		9F7962362B53501F00474C43 /* HomeWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F7962392B53501F00474C43 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F79623B2B53501F00474C43 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				9F7962422B53502000474C43 /* Assets.xcassets */,
 				9F7962442B53502000474C43 /* LaunchScreen.storyboard */,
 				9F7962472B53502000474C43 /* Info.plist */,
+				9F584E412B6A2BD30028056C /* SecondViewController.swift */,
 			);
 			path = HomeWork;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F584E422B6A2BD30028056C /* SecondViewController.swift in Sources */,
 				9F79623E2B53501F00474C43 /* ViewController.swift in Sources */,
 				9F79623A2B53501F00474C43 /* AppDelegate.swift in Sources */,
 				9F79623C2B53501F00474C43 /* SceneDelegate.swift in Sources */,
